@@ -30,7 +30,7 @@ body.boxed-wrapper .page-wrapper,
 .sidebar__category-list li.active a,
 .sidebar__tags-list a,
 .preloader {
-  background-color: #2a2523;
+  background-color: #000000;
 }
 
 body.boxed-wrapper,
@@ -74,7 +74,7 @@ body.boxed-wrapper,
 .blog-sidebar__delivering-services,
 .why-choose-one__points li .icon,
 .main-header__top {
-  background-color: #3c3531;
+  background-color: #000000;
 }
 
 .quality-work-shape-1 img,
@@ -225,7 +225,7 @@ body.boxed-wrapper,
 
 .blog-three .blog-one__content {
   -webkit-box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.07);
-          box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.07);
+  box-shadow: 0px 10px 60px 0px rgba(0, 0, 0, 0.07);
 }
 
 .main-menu .main-menu__list > li > ul > li + li,
