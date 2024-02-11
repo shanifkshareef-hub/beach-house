@@ -1,0 +1,168 @@
+<section class="services-page services-page--carousel">
+            <div class="container">
+              <div
+                class="thm-owl__carousel owl-theme owl-carousel owl-with-shadow owl-dot-one owl-dot-one--md owl-nav-one owl-nav-one--md"
+                data-owl-options='{
+                        "items": 3,
+                        "margin": 30,
+                        "smartSpeed": 700,
+                        "loop":true,
+                        "autoplay": 6000,
+                        "nav":true,
+                        "dots":true,
+                        "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+                        "responsive":{
+                            "0":{
+                                "items":1
+                            },
+                            "575":{
+                                "items":2
+                            },
+                            "992":{
+                                "items": 3
+                            }
+                        }
+                    }'
+              >
+                <div class="item">
+                  <!--Services One Single-->
+                  <div
+                    class="services-one__single wow fadeInUp"
+                    data-wow-delay="100ms"
+                  >
+                    <div class="services-one__img">
+                      <img src="assets/nw/consult2.png" alt="" />
+                      <div class="services-one__icon">
+                        <span class="icon-wallpaper-4"></span>
+                      </div>
+                    </div>
+                    <div class="services-one__content">
+                      <h3 class="services-one__title">
+                        <a>Consultation</a>
+                      </h3>
+                      <p class="services-one__text">
+                        Expert guidance and advice to help businesses navigate
+                        challenges and achieve their goals.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <!--Services One Single-->
+                  <div
+                    class="services-one__single wow fadeInUp"
+                    data-wow-delay="200ms"
+                  >
+                    <div class="services-one__img">
+                      <img src="assets/nw/web2.jpg" alt="" />
+                      <div class="services-one__icon">
+                        <span class="icon-programmer"></span>
+                      </div>
+                    </div>
+                    <div class="services-one__content">
+                      <h3 class="services-one__title">
+                        <a>Website Development</a>
+                      </h3>
+                      <p class="services-one__text">
+                        Designing and developing user-friendly and visually
+                        appealing websites to drive online presence and
+                        conversions.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <!--Services One Single-->
+                  <div
+                    class="services-one__single wow fadeInUp"
+                    data-wow-delay="300ms"
+                  >
+                    <div class="services-one__img">
+                      <img src="assets/nw/digi2.jpg" alt="" />
+                      <div class="services-one__icon">
+                        <span class="icon-wallpaper-4"></span>
+                      </div>
+                    </div>
+                    <div class="services-one__content">
+                      <h3 class="services-one__title">
+                        <a>Digital Branding</a>
+                      </h3>
+                      <p class="services-one__text">
+                        Establishing a strong online presence through strategic
+                        digital marketing initiatives.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <!--Services One Single-->
+                  <div
+                    class="services-one__single wow fadeInUp"
+                    data-wow-delay="300ms"
+                  >
+                    <div class="services-one__img">
+                      <img src="assets/nw/marketingstr.png" alt="" />
+                      <div class="services-one__icon">
+                        <span class="icon-programmer"></span>
+                      </div>
+                    </div>
+                    <div class="services-one__content">
+                      <h3 class="services-one__title">
+                        <a>Offline Marketing Strategies</a>
+                      </h3>
+                      <p class="services-one__text">
+                        Implementing creative marketing tactics beyond digital
+                        channels to reach target markets effectively.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <!--Services One Single-->
+                  <div
+                    class="services-one__single wow fadeInUp"
+                    data-wow-delay="100ms"
+                  >
+                    <div class="services-one__img">
+                      <img src="assets/nw/ariel2.jpg" alt="" />
+                      <div class="services-one__icon">
+                        <span class="icon-programmer"></span>
+                      </div>
+                    </div>
+                    <div class="services-one__content">
+                      <h3 class="services-one__title">
+                        <a>Aerial Photography & Videography</a>
+                      </h3>
+                      <p class="services-one__text">
+                        Capturing stunning aerial views to showcase landscapes,
+                        properties, or events from a unique perspective.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <!--Services One Single-->
+                  <div
+                    class="services-one__single wow fadeInUp"
+                    data-wow-delay="100ms"
+                  >
+                    <div class="services-one__img">
+                      <img src="assets/nw/Motion-Graphics.jpg" alt="" />
+                      <div class="services-one__icon">
+                        <span class="icon-programmer"></span>
+                      </div>
+                    </div>
+                    <div class="services-one__content">
+                      <h3 class="services-one__title">
+                        <a>Motion Graphics</a>
+                      </h3>
+                      <p class="services-one__text">
+                        Creating dynamic visual elements and animations to
+                        enhance storytelling and captivate audiences.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>

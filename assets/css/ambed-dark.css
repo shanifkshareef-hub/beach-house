@@ -33,6 +33,11 @@ body.boxed-wrapper .page-wrapper,
   background-color: #000000;
 }
 
+.main-menu__wrapper-inner,
+.stricky-header.stricky-fixed {
+  background: rgba(0, 0, 0, 0.33);
+}
+
 body.boxed-wrapper,
 .service-details__category,
 .blog-details__pagenation li,
