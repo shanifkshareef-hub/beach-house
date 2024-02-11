@@ -900,7 +900,7 @@
       if ($(window).scrollTop() > headerScrollPos) {
         stricky.addClass("stricky-fixed");
       } else if ($(this).scrollTop() <= headerScrollPos) {
-        stricky.removeClass("stricky-fixed");
+        // stricky.removeClass("stricky-fixed");
       }
     }
     OnePageMenuScroll();
