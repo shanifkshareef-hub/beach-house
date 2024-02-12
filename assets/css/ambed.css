@@ -1464,7 +1464,6 @@ ul {
 }
 
 .main-menu-two {
-  background-color: rgba(var(--ambed-black-rgb, 60, 53, 49), 0.9);
   padding: 0 60px;
 }
 
@@ -2464,9 +2463,6 @@ ul {
   transition: transform 7000ms ease, opacity 1500ms ease-in;
   transition: transform 7000ms ease, opacity 1500ms ease-in,
     -webkit-transform 7000ms ease;
-  background-color: var(--ambed-black, #3c3531);
-  background-blend-mode: luminosity;
-  opacity: 0.4;
   z-index: 1;
 }
 
@@ -4938,7 +4934,6 @@ ul {
   position: relative;
   display: block;
   background-color: var(--ambed-black, #3c3531);
-  margin-top: -110px;
   z-index: 1;
 }
 
