@@ -199,6 +199,7 @@ ul {
   transition: all 0.5s linear;
   overflow: hidden;
   z-index: 1;
+  border-radius: 16px;
 }
 
 .thm-btn:hover {
@@ -9168,6 +9169,9 @@ ul {
   display: block;
   margin-bottom: 20px;
 }
+.comment-form__input-box input {
+  border-radius: 16px;
+}
 
 .comment-form__input-box input[type="text"],
 .comment-form__input-box input[type="email"] {
@@ -9193,7 +9197,8 @@ ul {
   border: none;
   border-radius: 0px;
   outline: none;
-  margin-bottom: 0px;
+  margin-bottom: 0px;  
+  border-radius: 16px;
 }
 
 .comment-form__btn {
