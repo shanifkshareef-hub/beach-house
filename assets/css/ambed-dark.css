@@ -98,6 +98,9 @@ body.boxed-wrapper,
 .main-header__logo .light-logo {
   display: block;
 }
+.feature-one__content {
+  border-radius: 20px;
+}
 
 .why-choose-one__points li .text h4,
 .project-details__details-name,
