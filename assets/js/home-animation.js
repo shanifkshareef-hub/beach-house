@@ -9,7 +9,7 @@ let rotationDegree = 50;
 window.addEventListener("scroll", () => {
   rotationDegree = Math.max(
     0,
-    50 - (window.scrollY / window.innerHeight) * 200
+    50 - (window.scrollY / window.innerHeight) * 140
   );
 
   console.log("rotationDegree", rotationDegree);
