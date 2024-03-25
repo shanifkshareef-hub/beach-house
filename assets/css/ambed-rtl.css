@@ -42,7 +42,7 @@
 }
 
 body {
-  font-family: var(--ambed-font, "Rubik", sans-serif);
+  font-family: var(--ambed-font);
   color: var(--ambed-gray, #8b827d);
   font-size: 16px;
   line-height: 30px;
@@ -1217,7 +1217,7 @@ ul {
   line-height: 30px;
   color: #ffffff;
   font-size: 14px;
-  font-family: var(--ambed-font, "Rubik", sans-serif);
+  font-family: var(--ambed-font);
   font-weight: 500;
   height: 46px;
   -webkit-box-align: center;
